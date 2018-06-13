@@ -1,0 +1,25 @@
+中文搜索引擎的缺陷与改进
+
+张春元　康耀红　王曙光　张莉
+(海南大学 信息科学技术学院，海南 海口570228)
+
+摘　要：简要介绍了现有中文搜索引擎的工作原理，分析了其存在的缺陷，然后针对这些缺陷提出了一种经过改进的中文搜索引擎结构体系，并对其中用到的改进策略进行了剖析。
+关键词：中文搜索引擎；原理；缺陷；结构体系；改进策略
+ 
+　
+[5] 乔冬梅. 搜索引擎现状与发展研究[D]. 郑州: 郑州大学, 2002.
+
+Shortcomings and Improvements of Chinese Search Engine
+ZHANG Chun-yuan, KANG Yao-hong, Wang Shu-guang, ZHANG Li
+(The  Institute  of  Information  Science  and  Technology,  Hainan  University ,  Haikou  570228 ,  China)
+Abstract : The principle and shortcomings of the current Chinese search engine are analyzed in detail, and then, a kind of improved Chinese search engine model is put forward，in which the strategy is discussed.
+Key words: Chinese Search Engine；Principle；Shortcomings；Framework；Improved Strategy
+
+
+
+5
+
+
+作者简介：张春元（1973－），男，湖北武汉人，硕士研究生
+
+
